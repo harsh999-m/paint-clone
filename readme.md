@@ -5,7 +5,7 @@ This is project 19 / 20.
 
 ## Live Project
 
-You can view a live version of the project [here](https://rperry99.github.io/paint-clone/)
+You can view a live version of the project [here](https://harsh999-m.github.io/paint-clone/)
 
 You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
 
